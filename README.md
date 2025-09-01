@@ -1,2 +1,10 @@
-# expense-tracker
-A personal finance expense tracker that lets users log expenses, categorize them, view reports, and sync data to the cloud.
+# Expense Tracker (Skeleton)
+
+A full-stack project with **Spring Boot (Java)** backend and **React (Vite)** frontend.
+
+## How to run
+
+### Backend
+```bash
+cd expense-backend
+./mvnw spring-boot:run
