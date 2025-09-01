@@ -6,7 +6,7 @@ A full-stack project with **Spring Boot (Java)** backend and **React (Vite)** fr
 
 ### Backend
 ```bash
-cd expense-backend
+cd backend
 ./mvnw spring-boot:run
 ```
 _Runs on http://localhost:8080_
